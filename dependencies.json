@@ -1,5 +1,5 @@
 {
-  "comment": "# circuit-construction-kit-ac 1.0.0-prototype.0 Thu Jul 02 2020 15:15:09 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# circuit-construction-kit-ac 1.0.0-prototype.1 Thu Jul 02 2020 15:27:18 GMT-0600 (Mountain Daylight Time)",
   "assert": {
     "sha": "a99a9ce9ee0774bf3ef509bf3e31ca7383f67478",
     "branch": "HEAD"
@@ -17,11 +17,11 @@
     "branch": "HEAD"
   },
   "circuit-construction-kit-ac": {
-    "sha": "00f5b76ab1aad3d9ba7fe6674aa7ed2ca944cc4e",
+    "sha": "5541f50aba29b2b819655382e81b54a94e98c511",
     "branch": "prototype"
   },
   "circuit-construction-kit-common": {
-    "sha": "9b79f796a100f0e57c8681b7f6e474b6d5a638c9",
+    "sha": "10fc21b97731173b43204ed3c865b8107306dbc4",
     "branch": "prototype"
   },
   "dot": {
